@@ -1,5 +1,7 @@
 ### Hi, I am Fatih Arslan Tugay 👋
 
+#### I am Junior Software Enginner in Ankara, Turkey.
+
 <!--
 **fthrslntgy/fthrslntgy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
